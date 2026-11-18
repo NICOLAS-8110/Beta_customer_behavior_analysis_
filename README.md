@@ -6,12 +6,12 @@
 Store 1 buscaba profundizar su conocimiento sobre los hábitos de compra de sus usuarios para diseñar campañas de marketing mucho más efectivas y personalizadas. Para lograrlo, se ejecutó un análisis integral orientado a transformar registros transaccionales en inteligencia comercial accionable.
 
 ## 🎯 Objetivos
-✅ Analizar los patrones y frecuencias de consumo de los clientes.
-✅ Estandarizar y depurar la base de datos para garantizar análisis confiables.
-✅ Identificar segmentos de usuarios con perfiles y comportamientos similares.
-✅ Detectar consumidores de alto valor y potencial comercial.
-✅ Evaluar las preferencias de compra según las categorías de productos.
-✅ Respaldar estrategias de fidelización y marketing segmentado.
+- ✅ Analizar los patrones y frecuencias de consumo de los clientes.
+- ✅ Estandarizar y depurar la base de datos para garantizar análisis confiables.
+- ✅ Identificar segmentos de usuarios con perfiles y comportamientos similares.
+- ✅ Detectar consumidores de alto valor y potencial comercial.
+- ✅ Evaluar las preferencias de compra según las categorías de productos.
+- ✅ Respaldar estrategias de fidelización y marketing segmentado.
 
 ## 🛠️ Herramientas y Habilidades Utilizadas
 * **Lenguaje:** Python
